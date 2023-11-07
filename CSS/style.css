@@ -1,0 +1,82 @@
+.navbar{
+ background-color: orange;
+}
+.navbar li{
+  list-style: none;
+  float: left;
+  padding: 14px;
+  background-color: orange;
+  text-align: center;
+}
+.navbar li a{
+  text-decoration: none;
+}
+.navbar ul{
+  overflow: auto;
+}
+
+.navbar li a:hover{
+color: red;}
+h1{
+  padding: 5px;
+  background-color: orange;
+  color: oldlace;
+  
+}
+.row{
+  width: 300px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  float: left;
+}
+.pic img{
+  border-radius: 35px;
+  border: 2px solid gold;
+  box-shadow: 4px 4px 4px green;
+  transition: transform .2s;
+}
+.pic img:hover{
+  transform: scale(1.1);
+}
+.title{
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  background-color: orange;
+  border-radius: 50px;
+  width: 200px;
+  margin-left: 10px;
+
+}
+p{
+  padding: 11px ;
+  color: black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    background-color: aquamarine;
+}
+video{
+  margin-left: 250px;
+  border: 2px solid gray;
+}
+img{
+  transition: transform .5s;
+  border-radius: 10%px;
+  margin-left:10px ;
+  border: 2px solid gray;
+  
+}
+button{
+  height: 30px;
+  width: 50px;
+  text-align:center;
+  background-color:chartreuse;
+   padding: 3px;
+}
+marquee img{
+  border-radius: 20%;
+ 
+}

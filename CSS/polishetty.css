@@ -1,0 +1,32 @@
+body{
+    background-image: url(bg img.jpg);
+    background-attachment: fixed;
+}
+    h3{
+    color: brown;
+    background-color:  gray;
+    padding: 10px;
+
+}
+button{
+    text-align:center;
+    background-color:chartreuse;
+     padding: 3px;
+
+}
+img{
+    transition: transform .5s;
+    border-radius: 50px;
+    margin-left:10px ;
+    border: 2px solid gold;
+    
+}
+video{
+    margin-left:100px;
+    border-radius: 3% ;
+    border: 2px solid gold;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
